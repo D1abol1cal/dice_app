@@ -29,7 +29,7 @@ class GradientContainer extends StatelessWidget {
       ),
       child: const Center(
         child: Text(
-          "Hello, World!",
+          "Hello",
           style: TextStyle(
             fontSize: 28,
             color: Colors.white,
@@ -39,3 +39,8 @@ class GradientContainer extends StatelessWidget {
     );
   }
 }
+
+//Video 37
+
+
+
